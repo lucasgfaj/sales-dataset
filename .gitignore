@@ -1,0 +1,4 @@
+sales_data.json
+# Ignore the sales_data.json file
+.venv
+# Ignore the virtual environment directory

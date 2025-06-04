@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/lucas/Documents/Codes/Code-Jupyter/ConvertJupy/.venv
+set -gx VIRTUAL_ENV /home/fajardo/Documents/Codes/Code-Jupyter/sales-dataset/.venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
