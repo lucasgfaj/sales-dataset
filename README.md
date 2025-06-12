@@ -57,5 +57,5 @@ source .venv/bin/activate  # Para Linux/macOS
 # .venv\Scripts\activate    # Para Windows PowerShell
 ```
 ```bash
-python3 dependences.py
+python3 dependencies/dependences.py
 ```
